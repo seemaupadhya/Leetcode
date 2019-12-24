@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/two-sum/
+
 target=9  
 nums=[11,2,5,6,7]
 dict={}
